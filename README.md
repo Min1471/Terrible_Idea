@@ -1,4 +1,4 @@
-# Greg_Terrible_Idea
+# AI_Chatbot_Terrible_Idea
 An AI chat bot thats gonna insult you during the presentation.
 
 Acknowledgement
